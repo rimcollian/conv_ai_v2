@@ -11,3 +11,4 @@ accelerate
 peft
 datasets
 tf-keras
+pyarrow==14.0.2
